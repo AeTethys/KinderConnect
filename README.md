@@ -5,15 +5,15 @@ A comprehensive web application for managing preschool operations, including stu
 
 ## Features
 
-- User Management**: Different access levels for administrators, teachers, and parents
-- Student Management**: Complete student profiles with personal, medical, and contact information
-- Class Management**: Create and manage classes, assign students and teachers
-- Attendance Tracking**: Record and monitor student attendance
-- Parent Communication**: Messaging system for parent-teacher communication
-- Calendar**: School events and schedule management
-- Educational Resources**: Upload and share educational materials
-- Progress Tracking**: Monitor student development and learning objectives
-- Reporting & Analytics**: Generate insights from school data
+- **User Management**: Different access levels for administrators, teachers, and parents
+- **Student Management**: Complete student profiles with personal, medical, and contact information
+- **Class Management**: Create and manage classes, assign students and teachers
+- **Attendance Tracking**: Record and monitor student attendance
+- **Parent Communication**: Messaging system for parent-teacher communication
+- **Calendar**: School events and schedule management
+- **Educational Resources**: Upload and share educational materials
+- **Progress Tracking**: Monitor student development and learning objectives
+- **Reporting & Analytics**: Generate insights from school data
 
 
 ## Technologies Used
